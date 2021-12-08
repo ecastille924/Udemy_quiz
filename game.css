@@ -49,3 +49,9 @@
 .hud-main-text {
     text-align: center;
 }
+
+#progress-bar {
+    width: 20rem;
+    height: 4rem;
+    border: 0.3rem solid rgb(0, 174, 116) ;
+}
