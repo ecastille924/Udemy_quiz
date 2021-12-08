@@ -50,8 +50,15 @@
     text-align: center;
 }
 
-#progress-bar {
+#progressBar {
     width: 20rem;
     height: 4rem;
-    border: 0.3rem solid rgb(0, 174, 116) ;
+    border: 0.3rem solid  ;
+    margin-top: 2rem;
+}
+
+#progressBarFull {
+    height: 3.4rem;
+    background-color: rgb(0, 174, 116);
+    width: 0%;
 }
